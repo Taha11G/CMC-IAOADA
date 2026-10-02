@@ -1,0 +1,19 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# JavaScript dependencies
+node_modules/
+
+# Python virtual environments and cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+# Visual Studio cache
+.vs/
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
