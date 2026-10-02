@@ -148,3 +148,4 @@ app.layout = html.Div(
 if __name__ == "__main__":
     app.run(debug=True)
 >>>>>>> 81d498a47fe8a473f5875ad61aa2fe5f0cd957ba
+#note test
